@@ -1,0 +1,21 @@
+React UI
+ ├─ Upload file (CSV / Excel)
+ ├─ Column mapping
+ ├─ Dashboard & reconciliation views
+ └─ Audit timeline
+
+Node.js + Express API
+ ├─ Auth & Role check
+ ├─ File upload API
+ ├─ Async processing (Queue / Worker)
+ ├─ Reconciliation logic
+ ├─ Audit logging
+ └─ Dashboard APIs
+
+MongoDB
+ ├─ Users
+ ├─ UploadJobs
+ ├─ Records
+ ├─ ReconciliationResults
+ └─ AuditLogs
+
