@@ -1,0 +1,4 @@
+mkdir smart-reconciliation-backend
+cd smart-reconciliation-backend
+npm init -y
+
